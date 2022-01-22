@@ -5,10 +5,7 @@
 
 <p>Tecnologie: Kotlin, Android Jetpack, Amazon Web Services (Amplify, AppSync, DynamoDB, GraphQL, Amazon S3, Amazon Cognito), Google Maps SDK for Android.</p>
 
-<p>Ideata e realizzata da: 
-  Andreata Chiara 
-  Grandi Giacomo 
-  Peiretti Federico</p>
+<p>Ideata e realizzata da: Andreata Chiara, Grandi Giacomo, Peiretti Federico</p>
 
 <p>Esame di "Programmazione per dispositivi mobili" (Prof. F. Damiani).</p>
 
