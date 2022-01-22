@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "myapplication",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\Desktop\\AndroidProject\\MyApplication\\amplify\\backend\\api\\myapplication\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authmyapplicationa833d6f3"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 365,
+        "apiKeyExpirationDate": "2023-01-04T22:16:47.009Z",
+        "keyDescription": ""
+      }
+    ]
+  }
+}
